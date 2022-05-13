@@ -6,9 +6,9 @@
 
 - ####  :computer: Minhas redes:
 
-  - [GitHub]([Brennez (Brenne Santos) (github.com)](https://github.com/Brennez))
+  - [GitHub](https://github.com/Brennez)
 
-  - [Linkedin]([(4) Tchalisson Brenne | LinkedIn](https://www.linkedin.com/in/tchalisson-brenne-27911421b/))
+  - [Linkedin](https://www.linkedin.com/in/tchalisson-brenne-27911421b/)
 
 - ####  :paperclips: Resumo: 
 
@@ -23,7 +23,7 @@
   
       - Comandos básicos de terminal Windows x Linux
   
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4001fa8-4c22-4c76-8cf2-15f8d7eb5d2a/Untitled.png)
+        ![Comando](../assets/comandos.png)
   
     - Objetos do Git
   
@@ -52,7 +52,7 @@
   
         - ✅ EXEMPLO DE FUNCIONAMENTO:
   
-          ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a514e840-ffc9-41fa-bd41-d62728dcc4ff/Untitled.png)
+          ![Esquema 1](../assets/esquema1.png)
   
       - Commits
   
@@ -68,7 +68,7 @@
   
         - ✅EXEMPLO:
   
-          ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c0c8dcb-41dd-4c7a-a8bc-30f84a22c0ec/Untitled.png)
+          ![Esquema 2](../assets/esquema2.png)
   
     - Ciclo de vida de um arquivo git
   
@@ -76,7 +76,7 @@
   
         - ✅ REPRESENTAÇÃO:
   
-          ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7263a67-75f9-4935-ac36-54f7e51b0634/Untitled.png)
+          ![Ciclo de vida](../assets/cicloDeVida.png)
   
         - Untracked
   
