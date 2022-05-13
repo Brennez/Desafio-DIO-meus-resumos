@@ -6,7 +6,7 @@
 
 - ####  :computer: Minhas redes:
 
-  - [GitHub]((https://github.com/Brennez)
+  - [GitHub](https://github.com/Brennez)
 
   - [Linkedin](https://www.linkedin.com/in/tchalisson-brenne-27911421b/)
 
