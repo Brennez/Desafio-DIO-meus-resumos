@@ -6,10 +6,10 @@
 
 - ####  :computer: Minhas redes:
 
-  - [GitHub]([Brennez (Brenne Santos) (github.com)](https://github.com/Brennez))
+  - [GitHub](https://github.com/Brennez)
 
-  - [Linkedin]([(4) Tchalisson Brenne | LinkedIn](https://www.linkedin.com/in/tchalisson-brenne-27911421b/))
+  - [Linkedin](https://www.linkedin.com/in/tchalisson-brenne-27911421b/)
 
 - ####  :paperclips: Resumo: 
 
-  - ![Esquema](C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\assets\Untitled.png)
+  ![Esquema](../assets/Untitled.png)
