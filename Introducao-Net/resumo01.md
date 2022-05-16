@@ -39,8 +39,8 @@
       - Gerenciador de pacotes → NUGET
       - Linha do tempo:
   
-      ![Untitled](../assets/linhaDoTempo1.png)
+      ![Untitled](../assets/linhaDoTempo01.png)
   
-      ![Untitled](../assets/linhaDoTempo2.png)
+      ![Untitled](../assets/linhaDoTempo02.png)
   
       
