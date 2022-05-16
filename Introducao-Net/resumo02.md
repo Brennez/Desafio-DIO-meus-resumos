@@ -25,7 +25,7 @@
       
       - Ambiente de desenvolvimento e execução focado no windows
       
-        ![Untitled]()
+        ![Untitled](../assets/esquema.png)
       
       - Características principais
       
