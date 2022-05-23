@@ -1,0 +1,13 @@
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\bin\Debug\netcoreapp3.1\meusExemplosBootcamp.exe
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\bin\Debug\netcoreapp3.1\meusExemplosBootcamp.deps.json
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\bin\Debug\netcoreapp3.1\meusExemplosBootcamp.runtimeconfig.json
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\bin\Debug\netcoreapp3.1\meusExemplosBootcamp.runtimeconfig.dev.json
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\bin\Debug\netcoreapp3.1\meusExemplosBootcamp.dll
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\bin\Debug\netcoreapp3.1\meusExemplosBootcamp.pdb
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\obj\Debug\netcoreapp3.1\meusExemplosBootcamp.csprojAssemblyReference.cache
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\obj\Debug\netcoreapp3.1\meusExemplosBootcamp.AssemblyInfoInputs.cache
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\obj\Debug\netcoreapp3.1\meusExemplosBootcamp.AssemblyInfo.cs
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\obj\Debug\netcoreapp3.1\meusExemplosBootcamp.csproj.CoreCompileInputs.cache
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\obj\Debug\netcoreapp3.1\meusExemplosBootcamp.dll
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\obj\Debug\netcoreapp3.1\meusExemplosBootcamp.pdb
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\meusExemplosBootcamp\obj\Debug\netcoreapp3.1\meusExemplosBootcamp.genruntimeconfig.cache

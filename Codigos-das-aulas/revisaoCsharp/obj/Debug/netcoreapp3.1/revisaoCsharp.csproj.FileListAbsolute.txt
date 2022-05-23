@@ -1,0 +1,13 @@
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\bin\Debug\netcoreapp3.1\revisaoCsharp.exe
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\bin\Debug\netcoreapp3.1\revisaoCsharp.deps.json
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\bin\Debug\netcoreapp3.1\revisaoCsharp.runtimeconfig.json
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\bin\Debug\netcoreapp3.1\revisaoCsharp.runtimeconfig.dev.json
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\bin\Debug\netcoreapp3.1\revisaoCsharp.dll
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\bin\Debug\netcoreapp3.1\revisaoCsharp.pdb
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\obj\Debug\netcoreapp3.1\revisaoCsharp.csprojAssemblyReference.cache
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\obj\Debug\netcoreapp3.1\revisaoCsharp.AssemblyInfoInputs.cache
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\obj\Debug\netcoreapp3.1\revisaoCsharp.AssemblyInfo.cs
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\obj\Debug\netcoreapp3.1\revisaoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\obj\Debug\netcoreapp3.1\revisaoCsharp.dll
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\obj\Debug\netcoreapp3.1\revisaoCsharp.pdb
+C:\Users\tchal\Downloads\workspace\bootcampCodigos\revisaoCsharp\obj\Debug\netcoreapp3.1\revisaoCsharp.genruntimeconfig.cache

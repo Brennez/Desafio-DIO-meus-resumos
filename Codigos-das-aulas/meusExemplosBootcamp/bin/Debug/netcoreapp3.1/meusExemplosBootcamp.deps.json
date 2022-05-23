@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "meusExemplosBootcamp/1.0.0": {
+        "runtime": {
+          "meusExemplosBootcamp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "meusExemplosBootcamp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
