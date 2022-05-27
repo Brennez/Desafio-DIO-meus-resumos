@@ -1,0 +1,13 @@
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\bin\Debug\netcoreapp3.1\RefDemos.exe
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\bin\Debug\netcoreapp3.1\RefDemos.deps.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\bin\Debug\netcoreapp3.1\RefDemos.runtimeconfig.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\bin\Debug\netcoreapp3.1\RefDemos.runtimeconfig.dev.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\bin\Debug\netcoreapp3.1\RefDemos.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\bin\Debug\netcoreapp3.1\RefDemos.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\obj\Debug\netcoreapp3.1\RefDemos.csprojAssemblyReference.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\obj\Debug\netcoreapp3.1\RefDemos.AssemblyInfoInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\obj\Debug\netcoreapp3.1\RefDemos.AssemblyInfo.cs
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\obj\Debug\netcoreapp3.1\RefDemos.csproj.CoreCompileInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\obj\Debug\netcoreapp3.1\RefDemos.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\obj\Debug\netcoreapp3.1\RefDemos.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\RefDemos\obj\Debug\netcoreapp3.1\RefDemos.genruntimeconfig.cache

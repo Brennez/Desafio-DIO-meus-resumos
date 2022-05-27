@@ -1,0 +1,13 @@
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\bin\Debug\netcoreapp3.1\Desafio-de-codigo-3.exe
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\bin\Debug\netcoreapp3.1\Desafio-de-codigo-3.deps.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\bin\Debug\netcoreapp3.1\Desafio-de-codigo-3.runtimeconfig.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\bin\Debug\netcoreapp3.1\Desafio-de-codigo-3.runtimeconfig.dev.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\bin\Debug\netcoreapp3.1\Desafio-de-codigo-3.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\bin\Debug\netcoreapp3.1\Desafio-de-codigo-3.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\obj\Debug\netcoreapp3.1\Desafio-de-codigo-3.csprojAssemblyReference.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\obj\Debug\netcoreapp3.1\Desafio-de-codigo-3.AssemblyInfoInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\obj\Debug\netcoreapp3.1\Desafio-de-codigo-3.AssemblyInfo.cs
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\obj\Debug\netcoreapp3.1\Desafio-de-codigo-3.csproj.CoreCompileInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\obj\Debug\netcoreapp3.1\Desafio-de-codigo-3.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\obj\Debug\netcoreapp3.1\Desafio-de-codigo-3.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-codigo-3\obj\Debug\netcoreapp3.1\Desafio-de-codigo-3.genruntimeconfig.cache
