@@ -2,14 +2,14 @@ namespace desafio_de_projeto_1.src.models
 {
   public class Wizard : Hero
   {
-    public Wizard(string Name, int Level, string HeroType) : base(Name, Level, HeroType)
+    public Wizard(string Name, int Level, string HeroType, int HP, int MP) : base(Name, Level, HeroType, HP, MP)
     {
 
     }
 
     public override string atack()
     {
-      return this.Name + " Atacou lançou uma magia ";
+      return this.Name + " Atacou lançou a magia ";
     }
 
     public string atack(int Bonus)
