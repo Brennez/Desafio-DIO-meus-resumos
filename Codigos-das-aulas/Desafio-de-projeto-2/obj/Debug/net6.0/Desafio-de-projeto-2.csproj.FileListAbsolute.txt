@@ -1,0 +1,15 @@
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\bin\Debug\net6.0\Desafio-de-projeto-2.exe
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\bin\Debug\net6.0\Desafio-de-projeto-2.deps.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\bin\Debug\net6.0\Desafio-de-projeto-2.runtimeconfig.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\bin\Debug\net6.0\Desafio-de-projeto-2.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\bin\Debug\net6.0\Desafio-de-projeto-2.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\Desafio-de-projeto-2.csproj.AssemblyReference.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\Desafio-de-projeto-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\Desafio-de-projeto-2.AssemblyInfoInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\Desafio-de-projeto-2.AssemblyInfo.cs
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\Desafio-de-projeto-2.csproj.CoreCompileInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\Desafio-de-projeto-2.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\refint\Desafio-de-projeto-2.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\Desafio-de-projeto-2.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\Desafio-de-projeto-2.genruntimeconfig.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Desafio-de-projeto-2\obj\Debug\net6.0\ref\Desafio-de-projeto-2.dll
