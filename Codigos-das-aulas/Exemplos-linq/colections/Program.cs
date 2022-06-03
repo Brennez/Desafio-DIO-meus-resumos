@@ -5,7 +5,20 @@ class Program
 {
   public static void Main(string[] args)
   {
+    int[] arrayNumeros = new int[] { 100, 1, 2, 4, 0, 7, 10, 10, 2, 100 };
 
+    var maximo = arrayNumeros.Max();
+    var minimo = arrayNumeros.Min();
+    var media = arrayNumeros.Average();
+    var soma = arrayNumeros.Sum();
+    var distintos = arrayNumeros.Distinct();
+
+    Console.WriteLine($"Máximo: {maximo}");
+    Console.WriteLine($"Mínimo: {minimo}");
+    Console.WriteLine($"Médio: {media}");
+    Console.WriteLine($"Soma: {soma}");
+    Console.WriteLine($"Array original: {string.Join(", ", arrayNumeros)}");
+    Console.WriteLine($"Array distinto: {string.Join(", ", distintos)}");
   }
 
   public void ExemploArray()
@@ -402,5 +415,24 @@ class Program
       Console.WriteLine($"O estado [{chaveProcurada}] não existe na base de dados");
 
     }
+  }
+
+  public void ExemploComLinq()
+  {
+    int[] arrayNumeros = new int[] { 1, 2, 4, 7, 10 };
+
+    // Linq utilizando query
+    var numerosPares =
+        from num in arrayNumeros
+        where num % 2 == 0
+        orderby num
+        select num;
+
+    Console.WriteLine("Ordenado via query: " + string.Join(", ", numerosPares));
+
+    // linq utilizando métodos aninhados
+    var numerosPares2 = arrayNumeros.Where(elemento => elemento % 2 == 0).OrderBy(elemento => elemento).ToList();
+
+    Console.WriteLine("Ordenado via query: " + string.Join(", ", numerosPares2));
   }
 }
