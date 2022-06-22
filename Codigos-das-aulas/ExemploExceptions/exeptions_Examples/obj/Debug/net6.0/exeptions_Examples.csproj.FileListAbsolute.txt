@@ -1,0 +1,15 @@
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\bin\Debug\net6.0\exeptions_Examples.exe
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\bin\Debug\net6.0\exeptions_Examples.deps.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\bin\Debug\net6.0\exeptions_Examples.runtimeconfig.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\bin\Debug\net6.0\exeptions_Examples.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\bin\Debug\net6.0\exeptions_Examples.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\exeptions_Examples.csproj.AssemblyReference.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\exeptions_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\exeptions_Examples.AssemblyInfoInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\exeptions_Examples.AssemblyInfo.cs
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\exeptions_Examples.csproj.CoreCompileInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\exeptions_Examples.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\refint\exeptions_Examples.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\exeptions_Examples.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\exeptions_Examples.genruntimeconfig.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\ExemploExceptions\exeptions_Examples\obj\Debug\net6.0\ref\exeptions_Examples.dll

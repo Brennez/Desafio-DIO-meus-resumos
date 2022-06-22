@@ -1,0 +1,15 @@
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\bin\Debug\net6.0\calculadora_Project.exe
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\bin\Debug\net6.0\calculadora_Project.deps.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\bin\Debug\net6.0\calculadora_Project.runtimeconfig.json
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\bin\Debug\net6.0\calculadora_Project.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\bin\Debug\net6.0\calculadora_Project.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\calculadora_Project.csproj.AssemblyReference.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\calculadora_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\calculadora_Project.AssemblyInfoInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\calculadora_Project.AssemblyInfo.cs
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\calculadora_Project.csproj.CoreCompileInputs.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\calculadora_Project.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\refint\calculadora_Project.dll
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\calculadora_Project.pdb
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\calculadora_Project.genruntimeconfig.cache
+C:\Users\tchal\Downloads\workspace\meus-resumos-dio\Desafio-DIO-meus-resumos\Codigos-das-aulas\Calculadora_project\calculadora_Project\obj\Debug\net6.0\ref\calculadora_Project.dll
